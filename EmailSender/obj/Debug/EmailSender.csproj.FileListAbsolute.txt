@@ -1,0 +1,6 @@
+E:\Projects\C#\LibraryBorrowSystem\EmailSender\bin\Debug\EmailSender.exe.config
+E:\Projects\C#\LibraryBorrowSystem\EmailSender\bin\Debug\EmailSender.exe
+E:\Projects\C#\LibraryBorrowSystem\EmailSender\bin\Debug\EmailSender.pdb
+E:\Projects\C#\LibraryBorrowSystem\EmailSender\obj\Debug\EmailSender.csprojAssemblyReference.cache
+E:\Projects\C#\LibraryBorrowSystem\EmailSender\obj\Debug\EmailSender.exe
+E:\Projects\C#\LibraryBorrowSystem\EmailSender\obj\Debug\EmailSender.pdb
